@@ -118,3 +118,11 @@ footer {
   text-align: center;
   padding: 20px;
 }
+
+.subtitle {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: -15px;
+  margin-bottom: 40px;
+}
